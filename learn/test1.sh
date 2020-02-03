@@ -1,5 +1,5 @@
-for i in {1..10}
-do
-  echo $i
-  sleep 1
-done
+# 输入
+read -p "please input a num:" INPUT
+
+# 输出
+echo $INPUT

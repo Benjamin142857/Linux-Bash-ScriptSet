@@ -1,6 +1,6 @@
-for i in {1..10000}
+for i in {1..100000}
 do
-  echo $RANDOM >> learn/a.txt
+  echo $RANDOM >> a.txt
 done
 
 echo 'max' $(sort -nr a.txt | head -1)

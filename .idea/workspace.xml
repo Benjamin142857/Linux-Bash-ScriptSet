@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ded41837-e1d2-40d5-943a-a6ad83e3198f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/learn/test5.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/test6.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/test1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/learn/test1.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/test2.sh" beforeDir="false" afterPath="$PROJECT_DIR$/learn/test2.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/test3.sh" beforeDir="false" afterPath="$PROJECT_DIR$/learn/test3.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learn/test4.sh" beforeDir="false" afterPath="$PROJECT_DIR$/learn/test4.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,6 +27,12 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\#Programming\Other\Linux script set\learn" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,7 +56,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580705638093</updated>
-      <workItem from="1580705646224" duration="5178000" />
+      <workItem from="1580705646224" duration="9903000" />
+      <workItem from="1580722122122" duration="466000" />
     </task>
     <servers />
   </component>
@@ -55,7 +69,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
